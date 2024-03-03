@@ -1,0 +1,19 @@
+{
+  "name": "af_lab03",
+  "version": "1.0.0",
+  "description": "Lab Sheet 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashin99/AF_Lab03.git"
+  },
+  "author": "K L Shashin Kalpajith ( IT21355196 )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashin99/AF_Lab03/issues"
+  },
+  "homepage": "https://github.com/Shashin99/AF_Lab03#readme"
+}
